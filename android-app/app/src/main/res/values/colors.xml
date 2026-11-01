@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary palette -->
+    <color name="primary">#55DDB0</color>
+    <color name="primary_dark">#35B98F</color>
+    <color name="primary_light">#B8F0DB</color>
+
+    <!-- Backgrounds -->
+    <color name="background">#EAF4FC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F3F8FC</color>
+
+    <!-- Text -->
+    <color name="text_primary">#17243A</color>
+    <color name="text_secondary">#77869A</color>
+    <color name="text_hint">#AAB6C5</color>
+
+    <!-- Disaster severity -->
+    <color name="advisory">#F4D34F</color>
+    <color name="caution">#E53935</color>
+    <color name="danger">#9875AD</color>
+    <color name="emergency">#171717</color>
+
+    <!-- Weather and map -->
+    <color name="map_water">#A8D8F0</color>
+    <color name="map_land">#E5EBEF</color>
+    <color name="weather_blue">#B9DDF5</color>
+
+    <!-- General -->
+    <color name="divider">#E5EAF0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
 </resources>
